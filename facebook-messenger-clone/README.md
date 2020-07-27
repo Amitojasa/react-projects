@@ -1,4 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project uses Firebase for database , material Ui & React.
+## Project Live
+This project is live at https://facebook-messenger-clone-a2076.web.app
+
+## Firstly run a command in terminal `npm i `
+
+### Add you firebase configuration code in `facebook-messenger-clone/src/firebase.js`
 
 ## Available Scripts
 
