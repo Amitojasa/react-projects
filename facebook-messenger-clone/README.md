@@ -3,7 +3,7 @@ The project uses Firebase for database , material Ui & React.
 ## Project Live
 This project is live at https://facebook-messenger-clone-a2076.web.app
 
-## Firstly run a command in terminal `npm i `
+## Firstly run a command in terminal `npm install `
 
 ### Add you firebase configuration code in `facebook-messenger-clone/src/firebase.js`
 
