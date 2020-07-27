@@ -3,7 +3,7 @@ The project uses Firebase for database , material Ui & React.
 ## Project Live
 This project is live at https://todo-app-54987.web.app/
 
-## Firstly run a command in terminal `npm i `
+## Firstly run a command in terminal `npm install `
 
 ### Add you firebase configuration code in `todo_app/src/firebase.js`
 
