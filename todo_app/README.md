@@ -1,4 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project uses Firebase for database , material Ui & React.
+## Project Live
+This project is live at https://todo-app-54987.web.app/
+
+## Firstly run a command in terminal `npm i `
+
+### Add you firebase configuration code in `todo_app/src/firebase.js`
 
 ## Available Scripts
 
